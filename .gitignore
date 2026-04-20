@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+*.db
+
+# Secrets
+.env
+backend/.env
+frontend/.env.local
+
+# Logs
+backend_*.log
+frontend.log
+*.log
+
+# Node / Next.js
+node_modules/
+.next/
+frontend/tsconfig.tsbuildinfo
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Stray artifacts
+backend/null
