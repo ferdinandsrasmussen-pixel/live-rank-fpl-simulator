@@ -7,4 +7,4 @@ numpy==1.26.4
 pandas==2.2.3
 cohere==5.11.0
 python-dotenv==1.0.1
-psycopg2-binary==2.9.9
+psycopg2-binary==2.9.10
